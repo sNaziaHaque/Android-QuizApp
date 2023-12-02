@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <!-- QuestionFragment -->
+    <string name="question_placeholder">Question Placeholder</string>
+
+    <!-- MainActivity -->
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+
+    <!-- Questions -->
+    <string name="question_1">Canada has two official languages, English and French.</string>
+    <string name="question_2">The largest city in Canada is Vancouver.</string>
+    <string name="question_3">Canada is the second-largest country in the world by land area.</string>
+    <string name="question_4">The capital of Japan is Tokyo.</string>
+    <string name="question_5">The Amazon River is the longest river in the world.</string>
+    <string name="question_6">Mount Everest is the tallest mountain in the world.</string>
+    <string name="question_7">The Great Wall of China is visible from space.</string>
+    <string name="question_8">The currency of Brazil is the Peso.</string>
+    <string name="question_9">The Eiffel Tower is located in London.</string>
+    <string name="question_10">The Sahara Desert is the largest desert in the world.</string>
+    <string name="question_11">The currency of Russia is the Ruble.</string>
+
+    <!-- menu -->
+    <string name="Menu_1" translatable="false">Add a question</string>
+    <string name="Menu_2" translatable="false">Get the Average</string>
+    <string name="Menu_3" translatable="false">Select the Number of Questions</string>
+    <string name="Menu_4" translatable="false">Reset the Saved Results</string>
+
+
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">কুইজ অ্যাপ</string>
+
+    <string name="true_button" translatable="false">সত্য</string>
+    <string name="false_button" translatable="false">মিথ্যা</string>
+
+    <string name="question_1">কানাডা-র দুটি কর্তৃপক্ষপত্র, ইংরেজি এবং ফরাসি।</string>
+    <string name="question_2">কানাডা-র সবচেয়ে বড় শহর ভ্যানকুভার।</string>
+    <string name="question_3">কানাডা পৃথিবীর দ্বিতীয় বৃহত্তম দেশ ভূমি অঞ্চল দিয়ে।</string>
+    <string name="question_4">জাপানের রাজধানী টোকিও।</string>
+    <string name="question_5">আমাজন নদী বিশ্বের সবচেয়ে দীর্ঘ নদী নয়।</string>
+    <string name="question_6">এভারেস্ট পর্বত বিশ্বের সর্বোচ্চ পর্বত।</string>
+    <string name="question_7">চীনের মহা দুর্গ মহাকাশ থেকে দেখা যায় না।</string>
+    <string name="question_8">ব্রাজিলের মুদ্রা পেসো।</string>
+    <string name="question_9">আইফেল টাওয়ার লন্ডনে অবস্থিত।</string>
+    <string name="question_10">সাহারা মরু বিশ্বের বৃহত্তম মরু।</string>
+    <string name="question_11">রাশিয়ার মুদ্রা রুবেল।</string>
+
+
+    <string name="Menu_1">একটি প্রশ্ন যোগ করুন</string>
+    <string name="Menu_2">গড় প্রাপ্ত করুন</string>
+    <string name="Menu_3">প্রশ্নের সংখ্যা নির্বাচন করুন</string>
+    <string name="Menu_4">সংরক্ষিত ফলাফল পুনরায় সেট করুন </string>
+
+</resources>
